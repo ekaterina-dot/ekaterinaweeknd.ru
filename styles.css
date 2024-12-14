@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #242582;
+    color: white;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    background-color: #99738E;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.bio-image {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
+
+.socials {
+    margin-top: 10px;
+}
+
+.socials a {
+    margin-right: 15px;
+}
